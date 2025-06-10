@@ -1,28 +1,27 @@
 # Website-AdminLTE
+# Dokumentasi Website Manajemen Data Siswa
 
-# Dokumentasi Aplikasi Manajemen Data Siswa
-
-Berikut adalah tampilan-tampilan utama dari aplikasi:
+Berikut adalah tampilan-tampilan utama dari Website:
 
 ---
 
 ## 🔐 Login Admin
 
-![Login Admin](file_2025-06-10_15.23.26.png)
+![Login Admin](images/file_2025-06-10_15.23.26.png)
 
 Muncul dialog pemberitahuan setelah login:
 
-![Dialog Notifikasi](file_2025-06-10_15.24.11.png)
+![Dialog Notifikasi](images/file_2025-06-10_15.24.11.png)
 
 ---
 
 ## 🏠 Dashboard Admin
 
-![Dashboard](file_2025-06-10_15.24.37.png)
+![Dashboard](images/file_2025-06-10_15.24.37.png)
 
 Pop-up profil saat ikon profil diklik:
 
-![Pop Up Profil](file_2025-06-10_15.26.44.png)
+![Pop Up Profil](images/file_2025-06-10_15.26.44.png)
 
 ---
 
@@ -30,15 +29,15 @@ Pop-up profil saat ikon profil diklik:
 
 Data siswa:
 
-![Data Siswa](file_2025-06-10_15.27.10.png)
+![Data Siswa](images/file_2025-06-10_15.27.10.png)
 
 Edit data siswa:
 
-![Edit Siswa](file_2025-06-10_15.27.35.png)
+![Edit Siswa](images/file_2025-06-10_15.27.35.png)
 
 Hapus data siswa:
 
-![Hapus Siswa](file_2025-06-10_15.27.54.png)
+![Hapus Siswa](images/file_2025-06-10_15.27.54.png)
 
 ---
 
@@ -46,15 +45,15 @@ Hapus data siswa:
 
 Data jurusan:
 
-![Data Jurusan](file_2025-06-10_15.28.15.png)
+![Data Jurusan](images/file_2025-06-10_15.28.15.png)
 
 Edit data jurusan:
 
-![Edit Jurusan](file_2025-06-10_15.28.34.png)
+![Edit Jurusan](images/file_2025-06-10_15.28.34.png)
 
 Hapus data jurusan:
 
-![Hapus Jurusan](file_2025-06-10_15.28.53.png)
+![Hapus Jurusan](images/file_2025-06-10_15.28.53.png)
 
 ---
 
@@ -62,15 +61,15 @@ Hapus data jurusan:
 
 Data agama:
 
-![Data Agama](file_2025-06-10_15.29.13.png)
+![Data Agama](images/file_2025-06-10_15.29.13.png)
 
 Edit data agama:
 
-![Edit Agama](file_2025-06-10_15.29.28.png)
+![Edit Agama](images/file_2025-06-10_15.29.28.png)
 
 Hapus data agama:
 
-![Hapus Agama](file_2025-06-10_15.29.46.png)
+![Hapus Agama](images/file_2025-06-10_15.29.46.png)
 
 ---
 
@@ -78,15 +77,15 @@ Hapus data agama:
 
 Tambah data siswa:
 
-![Tambah Siswa](file_2025-06-10_15.30.22.png)
+![Tambah Siswa](images/file_2025-06-10_15.30.22.png)
 
 Tambah data jurusan:
 
-![Tambah Jurusan](file_2025-06-10_15.30.43.png)
+![Tambah Jurusan](images/file_2025-06-10_15.30.43.png)
 
 Tambah data agama:
 
-![Tambah Agama](file_2025-06-10_15.31.00.png)
+![Tambah Agama](images/file_2025-06-10_15.31.00.png)
 
 ---
 
@@ -94,21 +93,21 @@ Tambah data agama:
 
 Data users:
 
-![Data Users](file_2025-06-10_15.31.18.png)
+![Data Users](images/file_2025-06-10_15.31.18.png)
 
 Edit user:
 
-![Edit User](file_2025-06-10_15.31.52.png)
+![Edit User](images/file_2025-06-10_15.31.52.png)
 
 Hapus user:
 
-![Hapus User](file_2025-06-10_15.33.44.png)
+![Hapus User](images/file_2025-06-10_15.33.44.png)
 
 ---
 
 ## 🚪 Logout Admin
 
-![Log Out Admin](file_2025-06-10_15.35.14.png)
+![Log Out Admin](images/file_2025-06-10_15.35.14.png)
 
 ---
 
@@ -116,34 +115,34 @@ Hapus user:
 
 Tampilan login siswa:
 
-![Login Siswa](file_2025-06-10_15.35.58.png)
+![Login Siswa](images/file_2025-06-10_15.35.58.png)
 
 Dialog pemberitahuan:
 
-![Dialog Login Siswa](file_2025-06-10_15.36.28.png)
+![Dialog Login Siswa](images/file_2025-06-10_15.36.28.png)
 
 ---
 
 ## 🏫 Dashboard Role Siswa
 
-![Dashboard Siswa](file_2025-06-10_15.36.47.png)
+![Dashboard Siswa](images/file_2025-06-10_15.36.47.png)
 
 Data siswa:
 
-![Data Siswa Siswa](file_2025-06-10_15.37.04.png)
+![Data Siswa Siswa](images/file_2025-06-10_15.37.04.png)
 
 Data jurusan:
 
-![Data Jurusan Siswa](file_2025-06-10_15.37.25.png)
+![Data Jurusan Siswa](images/file_2025-06-10_15.37.25.png)
 
 Data agama:
 
-![Data Agama Siswa](file_2025-06-10_15.37.42.png)
+![Data Agama Siswa](images/file_2025-06-10_15.37.42.png)
 
 Profil siswa:
 
-![Profil Siswa](file_2025-06-10_15.38.03.png)
+![Profil Siswa](images/file_2025-06-10_15.38.03.png)
 
 Log out siswa:
 
-![Logout Siswa](file_2025-06-10_15.38.20.png)
+![Logout Siswa](images/file_2025-06-10_15.38.20.png)
