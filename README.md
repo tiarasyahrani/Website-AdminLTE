@@ -139,6 +139,8 @@ Data agama:
 
 ![Data Agama Siswa](images/file_2025-06-10_15.37.42.png)
 
+
+
 Profil siswa:
 
 ![Profil Siswa](images/file_2025-06-10_15.38.03.png)
@@ -146,3 +148,23 @@ Profil siswa:
 Log out siswa:
 
 ![Logout Siswa](images/file_2025-06-10_15.38.20.png)
+
+## 📂 Struktur Gambar Database
+
+Berikut adalah beberapa tangkapan layar yang menggambarkan struktur dan isi database yang digunakan dalam proyek ini:
+
+| Gambar | Deskripsi |
+|--------|-----------|
+| ![database sekolah](images/file_2025-06-11_00.21.25.png) | Struktur umum database sekolah |
+| ![tabel siswa](images/file_2025-06-11_00.22.09.png) | Tabel `siswa` yang berisi data siswa lengkap |
+| ![tabel jurusan](images/file_2025-06-11_00.22.51.png) | Tabel `jurusan` yang mencatat berbagai jurusan yang tersedia |
+| ![tabel agama](images/file_2025-06-11_00.23.08.png) | Tabel `agama` untuk menyimpan referensi agama siswa |
+| ![database users](images/file_2025-06-11_00.23.28.png) | Struktur tabel yang digunakan untuk manajemen pengguna |
+| ![tabel users](images/file_2025-06-11_00.23.47.png) | Tabel `users` berisi data login dan role pengguna |
+
+---
+
+## 🧑‍💻 Author
+
+- **Tiarasyahrani**  
+  GitHub: [@tiarasyahrani](https://github.com/tiarasyahrani)
